@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application4</string>
+    <string name="sName">Nombre Usuario</string>
+    <string name="sNameUser">Ingresar Nombre</string>
+    <string name="sPass">Password</string>
+    <string name="sMail">E-mail</string>
+    <string name="sButton">Aceptar</string>
+    <string name="SButtonShow">Mostrar</string>
+    <string name="hintPassword">Ingrese Password</string>
+    <string name="hintEmail">Ingrese un E-mail aquí</string>
+    <string name="sInformationAcc">La informacion fue ingresada</string>
+
+</resources>
